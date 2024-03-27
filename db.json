@@ -1,0 +1,48 @@
+{
+  "allvideos": [
+    {
+      "id": "4",
+      "caption": "Neru",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTNjODdkNzUtZWEzOC00MWJjLWJmYzMtYjM3NjQyM2M4NzI5XkEyXkFqcGdeQXVyNTI0NzYwMTI@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I"
+    },
+    {
+      "id": "5",
+      "caption": "Breaking Bad",
+      "url": "https://wallpapercave.com/wp/thq0mll.jpg",
+      "link": "https://www.youtube.com/embed/HhesaQXLuRY"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Premalu",
+      "link": "https://www.youtube.com/embed/rR_2ti4l3nM",
+      "timeStamp": "03/20/2024, 03:45:46 PM",
+      "id": 3
+    },
+    {
+      "caption": "Breaking Bad",
+      "link": "https://www.youtube.com/embed/HhesaQXLuRY",
+      "timeStamp": "03/25/2024, 10:57:43 PM",
+      "id": 4
+    },
+    {
+      "caption": "Neru",
+      "link": "https://www.youtube.com/embed/abuLOH7xs8I",
+      "timeStamp": "03/25/2024, 10:57:46 PM",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "music",
+      "allVideos": []
+    },
+    {
+      "id": 3,
+      "categoryName": "Trailer",
+      "allVideos": []
+    }
+  ]
+}
